@@ -11,7 +11,7 @@ export default function Letter() {
     const [currentText, setCurrentText] = useState("")
     const [showCursor, setShowCursor] = useState(true)
 
-    const letterText = `𝐌𝐲 𝐃𝐞𝐚𝐫𝐞𝐬𝐭 𝐁𝐫𝐨𝐭𝐡𝐞𝐫,
+    const letterText = `My Dearest Brother,
 
 On this very special day, I just want you to know how grateful I am to have you as my brother. Your birthday isn’t just about growing a year older it’s about celebrating the amazing person you are and all the happiness you bring into our lives.
 
